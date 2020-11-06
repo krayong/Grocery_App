@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Grocery App</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_reminder">Reminder</string>
+
+    <string name="grocery_app">Grocery App</string>
+    <string name="dev_name">Karan Gourisaria</string>
+    <string name="dev_email">kgourisaria2001@gmail.com</string>
+    <string name="github">Github</string>
+    <string name="linkedin">LinkedIn</string>
+    <string name="next">Next</string>
+    <string name="menu_home">HOME</string>
+    <string name="menu_profile">PROFILE</string>
+    <string name="menu_cart">CART</string>
+    <string name="menu_orders">ORDERS</string>
+    <string name="menu_log_out">LOG OUT</string>
+    <string name="menu_settings">SETTINGS</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_new_arrival">New Arrival</string>
+    <string name="tab_categories">Categories</string>
+    <string name="tab_budget_friendly">Budget Friendly</string>
+    <string name="clear">Clear</string>
+</resources>
